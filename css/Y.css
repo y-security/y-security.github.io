@@ -1,0 +1,98 @@
+[data-md-color-scheme="yLight"] {
+  --md-primary-fg-color:        #f2f2f2;
+  --md-primary-fg-color--light: #f2f2f2;
+  --md-primary-fg-color--dark:  #f2f2f2;
+  --md-primary-bg-color:        #404040;
+  --md-typeset-a-color:         #FF6961;
+  --md-code-hl-number-color:    #FEB0B8;
+  --md-code-hl-special-color:   #FEB0B8;
+  --md-code-hl-keyword-color:   #FEB0B8;
+  --md-code-hl-constant-color:  #FEB0B8;
+  --md-code-fg-color:           #FF6961;
+  --md-code-bg-color:           #f2f2f2;
+  --md-accent-fg-color:         #FEB0B8;
+  --md-footer-bg-color:         #f2f2f2;
+  --md-footer-fg-color:		#404040;
+  --md-footer-bg-color--dark:   #808080;
+  --md-footer-fg-color--light:	#f2f2f2;
+  --md-footer-fg-color--lighter: #404040;
+  --md-typeset-color:           #808080;
+}
+
+[data-md-color-scheme="yDark"] {
+  --md-primary-fg-color:        #808080;
+  --md-primary-fg-color--light: #f2f2f2;
+  --md-primary-fg-color--dark:  #f2f2f2;
+  --md-primary-bg-color:        #f2f2f2;
+  --md-default-bg-color:	#404040;
+  --md-default-fg-color:        #f2f2f2;
+  --md-default-fg-color--light: #f2f2f2;
+  --md-typeset-a-color:         #FF6961;
+  --md-code-hl-number-color:    #FEB0B8;
+  --md-code-hl-special-color:   #FEB0B8;
+  --md-code-hl-keyword-color:   #FEB0B8;
+  --md-code-hl-constant-color:  #FEB0B8;
+  --md-code-fg-color:           #FF6961;
+  --md-code-bg-color:           #f2f2f2;
+  --md-accent-fg-color:         #FEB0B8;
+  --md-footer-bg-color:         #404040;
+  --md-footer-fg-color:         #f2f2f2;
+  --md-footer-bg-color--dark:   #808080;
+  --md-footer-fg-color--light:  #404040;
+  --md-footer-fg-color--lighter: #808080:
+  --md-typeset-color:           #f2f2f2;
+}
+
+img {
+  animation: img ease 10s;
+  -webkit-animation: img ease 10s;
+  -moz-animation: img ease 10s;
+  -o-animation: img ease 10s;
+  -ms-animation: img ease 10s;
+}
+
+
+@keyframes img {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-moz-keyframes img {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-webkit-keyframes img {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-o-keyframes img {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-ms-keyframes img {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+}
+
